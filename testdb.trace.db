@@ -1,0 +1,76 @@
+2025-03-25 18:08:19.643970+03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "PERSON_MESSAGE" не найдена
+Table "PERSON_MESSAGE" not found; SQL statement:
+SELECT*FROM PERSON_MESSAGE [42102-232]
+2025-03-25 18:08:34.099569+03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "PERSON_MESSAGES" не найдена
+Table "PERSON_MESSAGES" not found; SQL statement:
+SELECT*FROM PERSON_MESSAGES [42102-232]
+2025-03-25 18:08:38.075988+03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "PERSON_MESSAGES" не найдена
+Table "PERSON_MESSAGES" not found; SQL statement:
+SELECT*FROM PERSON_MESSAGES [42102-232]
+2025-03-25 18:09:18.083290+03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "MESSAGES" не найдена
+Table "MESSAGES" not found; SQL statement:
+SELECT*FROM MESSAGES [42102-232]
+2025-03-25 19:26:26.054960+03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "PERSON_MESSAGES" не найдена
+Table "PERSON_MESSAGES" not found; SQL statement:
+SELECT*FROM PERSON_MESSAGES [42102-232]
+2025-03-25 19:26:32.852003+03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "PERSON_MESSAGE" не найдена
+Table "PERSON_MESSAGE" not found; SQL statement:
+SELECT*FROM PERSON_MESSAGE [42102-232]
+2025-03-25 19:33:04.125040+03:00 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "PERSON_MESSAGE" не найдена
+Table "PERSON_MESSAGE" not found; SQL statement:
+SELECT*FROM PERSON_MESSAGE [42102-232]
+2025-03-25 19:33:09.886623+03:00 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "PERSON_MESSAGES" не найдена
+Table "PERSON_MESSAGES" not found; SQL statement:
+SELECT*FROM PERSON_MESSAGES [42102-232]
+2025-03-25 19:33:28.949182+03:00 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Синтаксическая ошибка в выражении SQL "[*]PERSON_MESSAGES"; ожидалось "PREPARE"
+Syntax error in SQL statement "[*]PERSON_MESSAGES"; expected "PREPARE"; SQL statement:
+PERSON_MESSAGES [42001-232]
+2025-03-25 19:33:39.396189+03:00 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "PERSON_MESSAGES" не найдена
+Table "PERSON_MESSAGES" not found; SQL statement:
+SELECT*FROM PERSON_MESSAGES [42102-232]
+2025-03-25 19:34:05.749204+03:00 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Синтаксическая ошибка в выражении SQL "SELECT*FROM PERSON[*]-MESSAGES"
+Syntax error in SQL statement "SELECT*FROM PERSON[*]-MESSAGES"; SQL statement:
+SELECT*FROM PERSON-MESSAGES [42000-232]
+2025-03-25 19:34:20.493212+03:00 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Синтаксическая ошибка в выражении SQL "SELECT*FROM PERSON[*]*MESSAGES"
+Syntax error in SQL statement "SELECT*FROM PERSON[*]*MESSAGES"; SQL statement:
+SELECT*FROM PERSON*MESSAGES [42000-232]
+2025-03-25 19:34:25.710249+03:00 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "PERSON_MESSAGES" не найдена
+Table "PERSON_MESSAGES" not found; SQL statement:
+SELECT*FROM PERSON_MESSAGES [42102-232]
+2025-03-25 19:47:26.647552+03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "MESSAGES" не найдена
+Table "MESSAGES" not found; SQL statement:
+SELECT*FROM MESSAGES [42102-232]
+2025-03-25 19:47:38.301633+03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "MESSAGE_PERSON" не найдена
+Table "MESSAGE_PERSON" not found; SQL statement:
+SELECT*FROM MESSAGE_PERSON [42102-232]
+2025-03-25 19:47:48.909903+03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "PERSON_MESSAGES" не найдена
+Table "PERSON_MESSAGES" not found; SQL statement:
+SELECT*FROM PERSON_MESSAGES [42102-232]
+2025-03-25 19:47:51.366560+03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "PERSON_MESSAGE" не найдена
+Table "PERSON_MESSAGE" not found; SQL statement:
+SELECT*FROM PERSON_MESSAGE [42102-232]
+2025-03-25 20:14:58.209250+03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "PERSON_MESSAGE" не найдена
+Table "PERSON_MESSAGE" not found; SQL statement:
+SELECT*FROM PERSON_MESSAGE [42102-232]
+2025-03-25 20:15:01.790466+03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "PERSON_MESSAGES" не найдена
+Table "PERSON_MESSAGES" not found; SQL statement:
+SELECT*FROM PERSON_MESSAGES [42102-232]
